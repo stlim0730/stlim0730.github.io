@@ -1,2 +1,2 @@
 bundle exec jekyll build \
-  --config _config.yml,_config-dev.yml
+  --config _config.yml
